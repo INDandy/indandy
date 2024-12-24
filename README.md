@@ -11,4 +11,4 @@ I am currently honing my skills as a mobile developer, focusing on Kotlin progra
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=indandy&layout=compact&layout=compact&theme=algolia"/>
 </a>
 </p>
-<p>[![My Skills](https://skillicons.dev/icons?i=androidstudio,html,css,kotlin,php,py)](https://skillicons.dev)</p>
+<p>https://skillicons.dev/icons?i=androidstudio,html,css,kotlin,php,py]https://skillicons.dev</p>

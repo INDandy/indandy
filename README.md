@@ -2,7 +2,7 @@
  
 Perkenalkan nama saya **DANDY ROYYAN FIRDAUS**.<br>
  
-Saya seorang **Curriculum Developer** di [Dicoding](https://www.dicoding.com/).<br>
+Saya lulusan **Curriculum Developer** di [Dicoding](https://www.dicoding.com/).<br>
  
 ### Github Statistic
 <p align="left">
